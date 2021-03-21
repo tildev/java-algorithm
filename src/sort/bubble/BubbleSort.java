@@ -1,5 +1,11 @@
 package sort.bubble;
 
+/**
+ * 버블 정렬
+ *
+ * @author tildev
+ * @data 2021. 03. 21.
+ */
 public class BubbleSort {
 
     private static void bubbleSort(int[] arr) {
